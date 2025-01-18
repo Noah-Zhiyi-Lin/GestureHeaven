@@ -97,6 +97,7 @@ class GameState:
         self.total_rounds = 8 # 一局总轮数
 
     def start_game(self):
+        self.initial_time = 6.0  # 初始倒计时时间
         self.time_left = self.initial_time
         self.previous_gestures = []
         self.completed_gestures = 0
