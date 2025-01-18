@@ -33,7 +33,7 @@ python app.py
 
 2. 在浏览器中访问：
 ```
-http://localhost:5000
+https://127.0.0.1:5002
 ```
 
 3. 在主菜单中：
